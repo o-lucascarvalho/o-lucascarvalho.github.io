@@ -1,0 +1,3 @@
+Optional:
+- profile.jpg  (your portrait)
+- resume.pdf   (your CV)
